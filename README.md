@@ -1,5 +1,5 @@
 <h3 align="center">Hey, I'm Merin 👋</h3>
-<p align="center">A sophomore at IIIT Lucknow | AI | Full Stack | CP enthusiast</p>
+<p align="center">Sophomore at IIIT Lucknow | CP & Python Enthusiast | Exploring AI & Full Stack Dev</p>
 <p align="center"><i>"Code like poetry, write like logic."</i></p>
 
 <p align="center">
