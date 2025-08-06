@@ -22,13 +22,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=merintheres&theme=github-dark&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/merintheres/merintheres/main/assets/contribution-summary.png" width="90%" />
-</p>
