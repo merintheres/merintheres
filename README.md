@@ -1,5 +1,6 @@
 <h3 align="center">Hey, I'm Merin 👋</h3>
-<p align="center">Sophomore at IIIT Lucknow | Exploring CP & Python</p>
+<p align="center">Sophomore at IIIT Lucknow </p>
+<p align="center"> Exploring CP and Contributing to Scientific Python</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/merintheresjose/">
