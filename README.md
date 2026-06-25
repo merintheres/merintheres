@@ -2,6 +2,7 @@
 <p align="center">Sophomore at IIIT Lucknow</p>
 <p align="center">Exploring CP and Contributing to Scientific Python</p>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/merintheresjose/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
